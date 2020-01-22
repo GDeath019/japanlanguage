@@ -4,8 +4,8 @@
     tools:ignore="MissingDefaultResource">
     <stroke
         android:width="3dip"
-        android:color="#59FF00" />
+        android:color="#3AD111" />
     <solid
-        android:color="#ffffff" />
+        android:color="#F1F3F2" />
 
 </shape>
